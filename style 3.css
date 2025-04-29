@@ -1,0 +1,55 @@
+.navbar{
+    margin: 0%;
+    background-color: greenyellow;
+}
+.navbar ul{
+      list-style-type: none;
+      display: block;
+      overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar li{
+    float: left;
+    padding: 0pt 200pt;
+}
+body{
+    border: 4pt solid burlywood;
+    height: 3800pt;
+}
+.box1 ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+.box1 li{
+    float: left;
+    padding: 1pt 4pt;
+    margin: 1pt;
+}
+.rectangle{
+    border: 2pt solid greenyellow;
+    height: 3500pt;
+    width: 520pt;
+    background-color: ;
+}
+.second{
+    color: orange;
+    font-size: 30pt;
+}
+.rec{
+    height: 100;
+    width: 50;
+    border: 2pt solid black;
+}
+.tec{
+    height: 100;
+    width: 30;
+    border: 2pt solid black;
+}
+.aboutme{
+    border: 1pt solid black;
+    background-color: aqua;
+    margin: 5px;
+}
